@@ -30,7 +30,7 @@ def request_answer():
             "Nominativ": {"Maskulin": "er", "Feminin": "e", "Neutral": "es", "Plural": "en"},
             "Akkusativ": {"Maskulin": "en", "Feminin": "e", "Neutral": "es", "Plural": "en"},
             "Dativ": {"Maskulin": "en", "Feminin": "en", "Neutral": "en", "Plural": "en"},
-            "Genitiv": {"Maskulin": "en", "Feminin": "en", "Neutral": "en", "Plural": "er"}
+            "Genitiv": {"Maskulin": "en", "Feminin": "en", "Neutral": "en", "Plural": "en"}
         }
     }
 
