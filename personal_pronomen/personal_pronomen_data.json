@@ -1,0 +1,58 @@
+{
+  "singular": {
+    "1": {
+      "nominativ": "ich",
+      "akkusativ": "mich",
+      "dativ": "mir",
+      "genitiv": "meiner"
+    },
+    "2": {
+      "nominativ": "du",
+      "akkusativ": "dich",
+      "dativ": "dir",
+      "genitiv": "deiner"
+    },
+    "3": {
+      "nominativ": {
+        "maskulin": "er",
+        "feminin": "sie",
+        "neutral": "es"
+      },
+      "akkusativ": {
+        "maskulin": "ihn",
+        "feminin": "sie",
+        "neutral": "es"
+      },
+      "dativ": {
+        "maskulin": "ihm",
+        "feminin": "ihr",
+        "neutral": "ihm"
+      },
+      "genitiv": {
+        "maskulin": "seiner",
+        "feminin": "ihrer",
+        "neutral": "seiner"
+      }
+    }
+  },
+  "plural": {
+    "1": {
+      "nominativ": "wir",
+      "akkusativ": "uns",
+      "dativ": "uns",
+      "genitiv": "unser"
+    },
+    "2": {
+      "nominativ": "ihr",
+      "akkusativ": "euch",
+      "dativ": "euch",
+      "genitiv": "euer"
+    },
+    "3": {
+      "nominativ": "sie",
+      "akkusativ": "sie",
+      "dativ": "ihnen",
+      "genitiv": "ihrer"
+    }
+  }
+}

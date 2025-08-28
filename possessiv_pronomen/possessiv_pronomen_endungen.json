@@ -1,0 +1,26 @@
+{
+  "nominativ": {
+    "maskulin": "er",
+    "feminin": "e",
+    "neutral": "s",
+    "plural": "e"
+  },
+  "akkusativ": {
+    "maskulin": "en",
+    "feminin": "e",
+    "neutral": "s",
+    "plural": "e"
+  },
+  "dativ": {
+    "maskulin": "em",
+    "feminin": "er",
+    "neutral": "em",
+    "plural": "en"
+  },
+  "genitiv": {
+    "maskulin": "es",
+    "feminin": "er",
+    "neutral": "es",
+    "plural": "er"
+  }
+}
