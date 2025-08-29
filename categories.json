@@ -1,5 +1,6 @@
 {
   "gender": ["maskulin", "feminin", "neutral"],
+  "artikel": ["bestimmten", "unbestimmten", "null"],
   "number": ["singular", "plural"],
   "case": ["nominativ", "akkusativ", "dativ", "genitiv"],
   "person": ["1", "2", "3"]

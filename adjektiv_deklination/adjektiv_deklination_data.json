@@ -1,0 +1,80 @@
+{
+  "bestimmten": {
+    "nominativ": {
+      "maskulin": "e",
+      "feminin": "e",
+      "neutral": "e",
+      "plural": "en"
+    },
+    "akkusativ": {
+      "maskulin": "en",
+      "feminin": "e",
+      "neutral": "e",
+      "plural": "en"
+    },
+    "dativ": {
+      "maskulin": "en",
+      "feminin": "en",
+      "neutral": "en",
+      "plural": "en"
+    },
+    "genitiv": {
+      "maskulin": "en",
+      "feminin": "en",
+      "neutral": "en",
+      "plural": "en"
+    }
+  },
+  "unbestimmten": {
+    "nominativ": {
+      "maskulin": "er",
+      "feminin": "e",
+      "neutral": "es",
+      "plural": "en"
+    },
+    "akkusativ": {
+      "maskulin": "en",
+      "feminin": "e",
+      "neutral": "es",
+      "plural": "en"
+    },
+    "dativ": {
+      "maskulin": "en",
+      "feminin": "en",
+      "neutral": "en",
+      "plural": "en"
+    },
+    "genitiv": {
+      "maskulin": "en",
+      "feminin": "en",
+      "neutral": "en",
+      "plural": "en"
+    }
+  },
+  "null": {
+    "nominativ": {
+      "maskulin": "er",
+      "feminin": "e",
+      "neutral": "es",
+      "plural": "e"
+    },
+    "akkusativ": {
+      "maskulin": "en",
+      "feminin": "e",
+      "neutral": "es",
+      "plural": "e"
+    },
+    "dativ": {
+      "maskulin": "em",
+      "feminin": "er",
+      "neutral": "em",
+      "plural": "en"
+    },
+    "genitiv": {
+      "maskulin": "en",
+      "feminin": "er",
+      "neutral": "en",
+      "plural": "er"
+    }
+  }
+}
