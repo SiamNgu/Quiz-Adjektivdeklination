@@ -7,7 +7,6 @@ def open_json(path):
     with open(path) as file:
         return load(file)
 
-def table_print(data)
 
 def generate_params(categories: dict[str, list[str]]) -> Params:
     return {category[0]: choice(category[1]) for category in categories.items()}
